@@ -1,0 +1,8 @@
+[
+  { "value": "Operation", "key": "操作" },
+  { "value": "Delete", "key": "删除" },
+  { "value": "Modify", "key": "修改" },
+  { "value": "Edit", "key": "编辑" },
+  { "value": "Query", "key": "查询" },
+  { "value": "Reset", "key": "重置" }
+]
