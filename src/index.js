@@ -176,7 +176,12 @@ function generateSfc(descriptor) {
     parser: 'vue',
     semi: false,
     singleQuote: true,
-    trailingComma: 'none'
+    trailingComma: 'none',
+    htmlwhitespacesensitivity: 'ignore',
+    printwidth: 300,
+    tabwidth: 2,
+    useTabs: true,
+    arrowParens: 'avoid'
   })
 }
 
